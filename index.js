@@ -17,4 +17,4 @@ app.get('/amigos', (req, res) => {
     let htmlInfo = path.resolve(__dirname,'./vistas/index.html');
     res.sendFile(htmlInfo);
 }) */
-app.listen(3001, () => console.log("Servidor escuchando en puerto 3001"));
+app.listen(3001, () => console.log("Servidor escuchandooooo en puerto 3001"));
